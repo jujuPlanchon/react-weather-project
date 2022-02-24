@@ -8,7 +8,7 @@ function App() {
       <footer>
         Coded by{" "}
         <a
-          href="https://https://adoring-snyder-02ab2d.netlify.app/"
+          href="https://adoring-snyder-02ab2d.netlify.app/"
           target="_blank"
           rel="noreferrer"
         >
@@ -16,7 +16,7 @@ function App() {
         </a>{" "}
         and it's open source at{" "}
         <a
-          href="https://https://github.com/jujuPlanchon/react-weather-project"
+          href="https://github.com/jujuPlanchon/react-weather-project"
           target="_blank"
           rel="noreferrer"
         >
