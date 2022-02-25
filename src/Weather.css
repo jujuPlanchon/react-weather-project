@@ -1,9 +1,9 @@
 .Weather {
-  border: 1px solid #faca66;
+  border: 2px solid #faca66;
   padding: 16px;
   font-family: "Montserrat", sans-serif;
 
-  border-radius: 10px;
+  border-radius: 5px;
 }
 
 .Weather h1 {
@@ -48,4 +48,12 @@ ul {
   position: relative;
   line-height: 1;
   top: -34px;
+}
+.Weather .searchBtn {
+  color: #f5948d;
+  border: 1px solid #f5948d;
+}
+.searchBtn:hover {
+  background-color: #faca66;
+  transition: all ease-in-out 200ms;
 }
