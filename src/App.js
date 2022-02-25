@@ -6,7 +6,6 @@ function App() {
   return (
     <div className="App">
       <div className="container">
-        <h1>Weather Application</h1>
         <Weather />
         <footer>
           Coded by{" "}
@@ -14,6 +13,7 @@ function App() {
             href="https://adoring-snyder-02ab2d.netlify.app/"
             target="_blank"
             rel="noreferrer"
+            className="my-page"
           >
             Julia Planchon
           </a>{" "}
