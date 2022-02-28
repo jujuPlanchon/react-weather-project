@@ -28,11 +28,10 @@ ul {
 .Weather form {
   margin-top: 20px;
 }
-.Weather img {
+.Weather canvas {
   position: relative;
-  top: -18px;
-  width: 64px;
-  height: 64px;
+  top: 10px;
+  margin-right: 5px;
 }
 .Weather .temperature {
   font-weight: 400;
