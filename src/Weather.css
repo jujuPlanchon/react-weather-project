@@ -29,7 +29,6 @@ ul {
   margin-top: 20px;
 }
 .Weather canvas {
-  position: relative;
   top: 10px;
   margin-right: 5px;
 }
