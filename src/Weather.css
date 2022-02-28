@@ -26,18 +26,19 @@ ul {
   text-transform: capitalize;
 }
 .Weather form {
-  margin-top: 20px;
+  margin-top: -40px;
 }
 .Weather canvas {
   top: 10px;
-  margin-right: 5px;
 }
 .Weather .temperature {
+  position: relative;
   font-weight: 400;
   color: #f5948d;
   font-size: 62px;
   line-height: 64px;
-  margin-left: 5px;
+  left: 35px;
+  bottom: 35px;
 }
 .Weather .unit {
   color: #f5948d;
@@ -45,7 +46,8 @@ ul {
   font-weight: 400;
   position: relative;
   line-height: 1;
-  top: -32px;
+  top: -65px;
+  left: 35px;
 }
 .Weather .searchBtn {
   color: #f5948d;
