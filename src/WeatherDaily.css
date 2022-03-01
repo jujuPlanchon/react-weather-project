@@ -1,0 +1,9 @@
+.WeatherDaily {
+  text-align: center;
+  color: #f5948d;
+  margin-top: 10px;
+}
+.temperature-min {
+  opacity: 0.6;
+  margin-right: 5px;
+}
