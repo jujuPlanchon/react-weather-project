@@ -24,7 +24,7 @@ export default function WeatherDaily(props) {
       </div>
     );
   } else {
-    let apiKey = "f9b144c081d097692afbbd4e19bdc435";
+    let apiKey = "89edb83e45300d77a9a1a3bef122681f";
     let lon = props.coordinates.lon;
     let lat = props.coordinates.lat;
     let apiUrl = `https://api.openweathermap.org/data/2.5/onecall?lat=${lat}&lon=${lon}&appid=${apiKey}&units=metric`;
